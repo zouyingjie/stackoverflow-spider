@@ -1,0 +1,50 @@
+{"question_title": "Question:What does the “yield” keyword do in Python?", "question_votes": "6401", "question_views": "1,288,590 views", "tags": "python,iterator,generator,yield,coroutine"}
+{"question_title": "Question:What is a metaclass in Python?", "question_votes": "3620", "question_views": "479,697 views", "tags": "python,oop,metaclass,python-datamodel"}
+{"question_title": "Question:How do I check whether a file exists using Python?", "question_votes": "3229", "tags": "python,file,filesystems", "question_views": "1,987,010 views", "question_answers": "37"}
+{"question_title": "Question:Does Python have a ternary conditional operator?", "question_votes": "3154", "question_views": "905,919 views", "tags": "python,operators,ternary-operator,conditional-operator,python-2.5"}
+{"question_title": "Question:What does if __name__ == “__main__”: do?", "question_votes": "2751", "question_views": "1,110,130 views", "tags": "python,module,namespaces,main,idioms"}
+{"question_title": "Question:Calling an external command in Python", "question_votes": "2710", "question_views": "1,905,922 views", "tags": "python,shell,command,subprocess,external"}
+{"question_title": "Question:How to merge two Python dictionaries in a single expression?", "question_votes": "2292", "question_views": "785,354 views", "tags": "python,python-3.x,dictionary,mapping,idioms"}
+{"question_title": "Question:Sort a Python dictionary by value", "question_votes": "2211", "question_views": "1,289,298 views", "tags": "python,sorting,dictionary"}
+{"question_title": "Question:How to make a chain of function decorators?", "question_votes": "2092", "question_views": "383,272 views", "tags": "python,decorator,python-decorators"}
+{"question_title": "Question:How to check if a directory exists and create it if necessary?", "question_votes": "2092", "question_views": "1,239,499 views", "tags": "python,exception,directory"}
+{"question_title": "Question:Best way to check if a list is empty", "question_votes": "1959", "question_views": "1,134,109 views", "tags": "python,list"}
+{"question_title": "Question:Using global variables in a function other than the one that created them", "question_votes": "1957", "question_views": "1,992,220 views", "tags": "python,global-variables,scope"}
+{"question_title": "Question:append vs. extend", "question_votes": "1947", "question_views": "1,467,948 views", "tags": "python,list,append,extend"}
+{"question_title": "Question:What is the difference between @staticmethod and @classmethod in Python?", "question_votes": "1923", "question_views": "349,404 views", "tags": "python,oop"}
+{"question_title": "Question:How to list all files of a directory?", "question_votes": "1868", "tags": "python,directory", "question_views": "1,499,291 views", "question_answers": "21"}
+{"question_title": "Question:Does Python have a string contains substring method?", "question_votes": "1868", "question_views": "1,589,621 views", "tags": "python,string,substring,contains"}
+{"question_title": "Question:How do I install pip on Windows?", "question_votes": "1863", "question_views": "1,643,489 views", "tags": "python,windows,installation,pip,easy-install"}
+{"question_title": "Question:Accessing the index in Python 'for' loops", "question_votes": "1830", "question_views": "844,558 views", "tags": "python,loops,list"}
+{"question_title": "Question:“Least Astonishment” and the Mutable Default Argument", "question_votes": "1676", "question_views": "90,807 views", "tags": "python,language-design,least-astonishment"}
+{"question_title": "Question:How do I pass a variable by reference?", "question_votes": "1661", "question_views": "713,135 views", "tags": "python,reference,parameter-passing,pass-by-reference"}
+{"question_title": "Question:Explain Python's slice notation", "question_votes": "1645", "question_views": "804,637 views", "tags": "python,list,slice"}
+{"question_title": "Question:Difference between __str__ and __repr__ in Python", "question_votes": "1598", "question_views": "339,158 views", "tags": "python"}
+{"question_title": "Question:Finding the index of an item given a list containing it in Python", "question_votes": "1532", "question_views": "1,612,648 views", "tags": "python,list"}
+{"question_title": "Question:Understanding Python super() with __init__() methods [duplicate]", "question_votes": "1525", "question_views": "977,221 views", "tags": "python,oop,inheritance,super"}
+{"question_title": "Question:Is there a way to run Python on Android?", "question_votes": "1511", "question_views": "391,854 views", "tags": "android,python,jython,ase,android-scripting"}
+{"question_title": "Question:Check if a given key already exists in a dictionary", "question_votes": "1498", "question_views": "1,401,910 views", "tags": "python,dictionary"}
+{"question_title": "Question:Catch multiple exceptions in one line (except block)", "question_votes": "1449", "question_views": "292,607 views", "tags": "python,exception,exception-handling"}
+{"question_title": "Question:Hidden features of Python [closed]", "question_votes": "1421", "tags": "python,hidden-features", "question_views": "582,557 views", "question_answers": "191"}
+{"question_title": "Question:Add new keys to a dictionary?", "question_votes": "1409", "question_views": "1,431,105 views", "tags": "python,dictionary"}
+{"question_title": "Question:How to get current time in Python", "question_votes": "1407", "question_views": "1,356,583 views", "tags": "python,datetime,time"}
+{"question_title": "Question:Iterating over dictionaries using 'for' loops", "question_votes": "1377", "question_views": "1,801,819 views", "tags": "python,python-2.7,dictionary"}
+{"question_title": "Question:How can I make a time delay in Python?", "question_votes": "1349", "tags": "python,sleep,timedelay", "question_views": "1,355,230 views", "question_answers": "5"}
+{"question_title": "Question:Parse String to Float or Int", "question_votes": "1336", "question_views": "2,207,604 views", "tags": "python,string,parsing,floating-point,integer"}
+{"question_title": "Question:Making a flat list out of list of lists in Python", "question_votes": "1334", "question_views": "722,176 views", "tags": "python,list"}
+{"question_title": "Question:Print in terminal with colors using Python?", "question_votes": "1186", "tags": "python,unicode,terminal,ansi-colors", "question_views": "535,890 views", "question_answers": "36"}
+{"question_title": "Question:Static class variables in Python", "question_votes": "1184", "question_views": "685,893 views", "tags": "python,class,methods,static,class-variables"}
+{"question_title": "Question:How do I read a file line-by-line into a list?", "question_votes": "1181", "tags": "python,string,file,readlines", "question_views": "1,791,057 views", "question_answers": "27"}
+{"question_title": "Question:How to get the size of a list", "question_votes": "1170", "question_views": "1,662,413 views", "tags": "python,list"}
+{"question_title": "Question:How to clone or copy a list?", "question_votes": "1166", "question_views": "658,393 views", "tags": "python,list,copy,clone"}
+{"question_title": "Question:Is there a way to substring a string in Python?", "question_votes": "1163", "question_views": "1,410,073 views", "tags": "python,string"}
+{"question_title": "Question:How to append list to second list (concatenate lists)", "question_votes": "1153", "question_views": "877,111 views", "tags": "python,list"}
+{"question_title": "Question:How do I install pip on macOS or OS X?", "question_votes": "1147", "tags": "python,osx,pip,install", "question_views": "877,840 views", "question_answers": "16"}
+{"question_title": "Question:How can I represent an 'Enum' in Python?", "question_votes": "1146", "question_views": "516,505 views", "tags": "python,python-3.x,enums"}
+{"question_title": "Question:How do you split a list into evenly sized chunks?", "question_votes": "1139", "question_views": "433,311 views", "tags": "python,list,split,chunks"}
+{"question_title": "Question:Static methods in Python?", "question_votes": "1120", "question_views": "555,182 views", "tags": "python,static-methods"}
+{"question_title": "Question:How can I remove (chomp) a newline in Python?", "question_votes": "1076", "tags": "python,newline", "question_views": "963,316 views", "question_answers": "25"}
+{"question_title": "Question:Python join: why is it string.join(list) instead of list.join(string)?", "question_votes": "1068", "question_views": "762,860 views", "tags": "python,string,list,join"}
+{"question_title": "Question:Upgrading all packages with pip", "question_votes": "1056", "question_views": "544,778 views", "tags": "python,pip"}
+{"question_title": "Question:What does ** (double star) and * (star) do for parameters?", "question_votes": "1041", "question_views": "244,862 views", "tags": "python,syntax,parameter-passing,identifier,kwargs"}
+{"question_title": "Question:What IDE to use for Python? [closed]", "question_votes": "1031", "tags": "python,ide,editor", "question_views": "1,410,205 views", "question_answers": "1"}
